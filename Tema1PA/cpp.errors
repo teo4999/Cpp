@@ -1,0 +1,32 @@
+./bomboane.cpp:2:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bomboane.cpp:3:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bomboane.cpp:4:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bomboane.cpp:12:  public: should be indented +1 space inside class Task  [whitespace/indent] [3]
+./bomboane.cpp:18:  private: should be indented +1 space inside class Task  [whitespace/indent] [3]
+./bomboane.cpp:21:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bomboane.cpp:30:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bomboane.cpp:41:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bomboane.cpp:60:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./gard.cpp:2:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./gard.cpp:3:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./gard.cpp:4:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./gard.cpp:12:  public: should be indented +1 space inside class Task  [whitespace/indent] [3]
+./gard.cpp:18:  private: should be indented +1 space inside class Task  [whitespace/indent] [3]
+./gard.cpp:21:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./gard.cpp:30:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./gard.cpp:42:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./gard.cpp:59:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bani.cpp:2:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bani.cpp:3:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bani.cpp:4:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bani.cpp:12:  public: should be indented +1 space inside class Task  [whitespace/indent] [3]
+./bani.cpp:18:  private: should be indented +1 space inside class Task  [whitespace/indent] [3]
+./bani.cpp:21:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bani.cpp:30:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bani.cpp:41:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./bani.cpp:60:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+Done processing ./_utils/verif.cpp
+Done processing ./bomboane.cpp
+Done processing ./gard.cpp
+Done processing ./bani.cpp
+Total errors found: 27
